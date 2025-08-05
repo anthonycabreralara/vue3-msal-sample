@@ -211,3 +211,4 @@ const routes = [
 
 Then we register a global route guard, as shown in `src/router/Guard.ts`. A similar approach can be taken for [per route guards](https://router.vuejs.org/guide/advanced/navigation-guards.html#per-route-guard) instead, if desired.
 # vue3-msal-sample
+# vue3-msal-sample
